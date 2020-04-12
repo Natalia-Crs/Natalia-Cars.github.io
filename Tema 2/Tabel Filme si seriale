@@ -6,7 +6,7 @@
 
 <body bgcolor="#000000" 
 Topmargin="5"; leftmargin="5">
-
+<table>
 <p><h3>Filme favorite</h3>
 <tr>
   <th>Numele filmului
@@ -34,8 +34,36 @@ Kristine Frøseth(Veronica)
     <th>12 februarie 2020
     <th>lana Condor(Lara Jean Covey) și Noah Centineo(Peter)
 </tr>
-
-
+</p></table>
+<table>
+  <p><h3>Seriale Favorite</h3>
+<tr>
+  <th>Numele serialului
+  <th>Data apariției 
+  <th>Personaje principale 
+</tr>
+<tr>
+   <th>The Vampire Diaries 
+   <th>10 septembrie 2009
+   <th>Nina Dobrev(Elena Gilbert) ;Paul Wesley(Stefan Salvatore) și Ian Somelharder(Damon Salvatore) 
+</tr>
+<tr>
+   <th>The originals
+   <th>3 octombrie 2013
+   <th>Joseph Morgan(Klaus Mikaelson), Claire Holt(Rebekah Mikaelson), Daniel Gillies(Elijah Mikaelson) etc
+</tr>
+<tr>
+   <th>Skam
+   <th>25 septembrie 2015
+   <th>Josefine Frida Pettersen(Noora), Iman Meskini(Sana), Lisa Teige(Eva), Ulrikke Falch(Vilde) etc
+</tr>
+<tr>
+  <th>Riverdale
+  <th>26 ianuarie 2017
+  <th> Lili Reinhart(Betty Cooper), KJ Apa(Archie Andrews), Cole Sprouse(Jughead Jones), Camila Mendes( Veronica Lodge) 
+</tr>
+</p></table>
+ 
 
 
 </html>
