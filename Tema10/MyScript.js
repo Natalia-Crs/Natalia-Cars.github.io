@@ -1,4 +1,5 @@
- function ask_for_movie() {
+ 
+function ask_for_movie() {
 film=pompt(Care este filmul tau favorit? ") 
 document.getElementById.innerHTML ="filmul" + "meu" + "favorit" + "este" 
 " 
