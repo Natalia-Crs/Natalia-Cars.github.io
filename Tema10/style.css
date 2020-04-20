@@ -1,0 +1,12 @@
+btn btn-primary {
+  color: black;
+  bg-color:yellow;
+}
+.btn-outline-light {
+color: white;
+bg-color: yellow;
+}
+.btn-outline-dark"{
+  color: black;
+  bg-color: grey;
+}
